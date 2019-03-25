@@ -1,0 +1,24 @@
+.pacifico {
+    font-family: 'Pacifico', cursive;
+    font-size:70px;
+}
+p {
+    color:white; 
+    font-size: 15px
+}
+.jumbotron {
+    color:blue;
+    border-style:solid;
+    border-width:15px;
+    border-color:#61;
+}
+
+.card{
+      border-style: double;
+      border-width: 15px;
+      border-color:#35477d;
+}
+p2 {
+    color:black;
+}
+
